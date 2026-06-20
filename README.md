@@ -46,6 +46,7 @@ Antes de rodar o projeto, seu ambiente precisará de:
    * *Ubuntu/Debian:* `sudo apt-get install libcairo2-dev`
    * *MacOS:* `brew install cairo`
    * *Windows:* Recomendável rodar via **WSL2** (Linux Subsystem).
+4. **Postgres Database**
 
 
 ---
